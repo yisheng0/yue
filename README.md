@@ -3,11 +3,15 @@
 
 主页面
 ![Alt text](<mdImg/屏幕截图 2024-01-18 221343.png>)
+<br>
 好歌单
 ![Alt text](<mdImg/屏幕截图 2024-01-18 221321.png>)
+<br>
 播放界面
 ![Alt text](<mdImg/屏幕截图 2024-01-18 221130.png>)
+<br>
 ![Alt text](<mdImg/屏幕截图 2024-01-18 221144.png>)
+<br>
 ![Alt text](<mdImg/屏幕截图 2024-01-18 221211.png>)
 搜索界面
 ![Alt text](<mdImg/屏幕截图 2024-01-18 221248.png>)
